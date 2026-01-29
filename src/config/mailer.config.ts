@@ -13,7 +13,7 @@ export function getMailerConfig(configService: ConfigService): MailerOptions {
 			}
 		},
 		defaults: {
-			from: `"MikrTik_2" ${configService.getOrThrow<string>('MAIL_LOGIN')}`
+			from: `"MikrTik_2" ${configService.getOrThrow<string>('MAIL_SERVICE')}`
 		}
 	}
 }
