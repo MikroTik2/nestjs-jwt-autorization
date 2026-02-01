@@ -20,8 +20,8 @@ This project is a NestJS backend focused on secure JWT-based authentication, inc
 1. **Clone the repository**
 
 ```bash
-git clone git@github.com:MikroTik2/payment-system-integration.git
-cd payment-system-integration
+git clone git@github.com:MikroTik2/nestjs-jwt-autorization.git
+cd nestjs-jwt-autorization
 ```
 
 2. **Clone the repository**
